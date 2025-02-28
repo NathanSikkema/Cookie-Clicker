@@ -1,4 +1,6 @@
-#Cookie clicker
+# Cookie clicker
+## Date Completed: March 4, 2024
+
 
 I wrote this remake of the game Cookie Clicker for a project in College.
 The original game can be found at [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/).
